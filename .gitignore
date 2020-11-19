@@ -1,5 +1,6 @@
 *.pdf
 /my_jobs/*
+материалы для урока/*
 
 # Created by https://www.toptal.com/developers/gitignore/api/pycharm+all
 # Edit at https://www.toptal.com/developers/gitignore?templates=pycharm+all

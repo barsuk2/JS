@@ -1,7 +1,7 @@
 *.pdf
 /my_jobs/*
-matrials for lesson/*
-test/*
+matrials_for_lesson/
+test/
 
 # Created by https://www.toptal.com/developers/gitignore/api/pycharm+all
 # Edit at https://www.toptal.com/developers/gitignore?templates=pycharm+all

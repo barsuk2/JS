@@ -35,4 +35,4 @@ function mathOperation(arg1, arg2, operation) {
     }
 
 }
-mathOperation(20,30,'*');
+mathOperation(20,30,'/');

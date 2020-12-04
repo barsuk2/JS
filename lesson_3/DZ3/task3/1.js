@@ -13,8 +13,12 @@ const products = [
         price: 1000,
     },
 ];
-// document.write("adsasd")
 
-for (let i of products){
-    document.write(i.id + ' '+ i.price+'\n')
-}
+
+let sale = 15;
+
+products.forEach(function (arg) {
+    arg.price = arg.price * (100 - sale) / 100
+})
+
+console.table(products)
